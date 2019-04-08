@@ -1,0 +1,28 @@
+---
+title: "HelloWorld alejonaranjo83"
+author: "alejonaranjo83"
+date: "4/7/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file 
+
+It was created to test what I learned inside the course called "The Data Scientist´s Tool Box"
+
+**this is a bold text**
+
+*this is an italic text*
+
+#Title 1#
+
+##Title 2##
+
+###Title 3###
+
+This is a song that I like too much
+
+[text that is shown] (https://www.youtube.com/watch?v=6mzwlMFXDS8)
